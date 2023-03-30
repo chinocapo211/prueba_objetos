@@ -1,0 +1,5 @@
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.csproj.AssemblyReference.cache
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.AssemblyInfoInputs.cache
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.AssemblyInfo.cs
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.csproj.CoreCompileInputs.cache
