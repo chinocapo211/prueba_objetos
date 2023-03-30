@@ -3,3 +3,13 @@ Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba
 Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.AssemblyInfoInputs.cache
 Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.AssemblyInfo.cs
 Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.csproj.CoreCompileInputs.cache
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\bin\Debug\net6.0\prueba_objetos.exe
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\bin\Debug\net6.0\prueba_objetos.deps.json
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\bin\Debug\net6.0\prueba_objetos.runtimeconfig.json
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\bin\Debug\net6.0\prueba_objetos.dll
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\bin\Debug\net6.0\prueba_objetos.pdb
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.dll
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\refint\prueba_objetos.dll
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.pdb
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\prueba_objetos.genruntimeconfig.cache
+Z:\Tecnologia\4to\programacion\prueba_obj\prueba_objetos\obj\Debug\net6.0\ref\prueba_objetos.dll

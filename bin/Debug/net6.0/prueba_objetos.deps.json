@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "prueba_objetos/1.0.0": {
+        "runtime": {
+          "prueba_objetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prueba_objetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
