@@ -13,7 +13,7 @@ class persona
         email = ema;
         fechaNacimiento = fn;
     }
-    private int obtenerEdad()
+    public int obtenerEdad()
     {
         int devolverInt;
         devolverInt = DateTime.Today.Year - fechaNacimiento.Year;
@@ -24,7 +24,7 @@ class persona
     {
         bool devolverBool = false;
         int edad = obtenerEdad();
-        if(edad >= 18)devolverBool = true;
+        if(edad >= 16)devolverBool = true;
         return devolverBool;
     }
 }
